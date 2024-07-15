@@ -1,3 +1,4 @@
+![WhatsApp Image 2024-07-15 at 10 37 37 AM](https://github.com/user-attachments/assets/6c98bb54-f9b8-4f25-b83b-8789e6be2f73)
 [![MasterHead](https://www.dreamstime.com/stock-illustration-line-web-concept-computer-science-vector-banner-education-open-path-image79877360)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Zainab Rauf</h1>
 <h3 align="center">A passionate computer science student</h3>
