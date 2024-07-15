@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...![download](https://github.com/user-attachments/assets/40aee813-c551-4e69-9815-93464dd88c98)
 
 - ⚡ Fun fact: ...
--->[![MasterHead](https://www.dreamstime.com/stock-illustration-line-web-concept-computer-science-vector-banner-education-open-path-image79877360)]
+-->[![MasterHead](https://www.dreamstime.com/stock-illustration-line-web-concept-computer-science-vector-banner-education-open-path-![WhatsApp Image 2024-07-15 at 10 37 37 AM](https://github.com/user-attachments/assets/bb0165b6-6d14-4abe-88d7-d133171c2e61))]
 <h1 align="center">Hi 👋, I'm Zainab Rauf</h1>
 <h3 align="center">A passionate computer science student</h3>
 (img align="right" alt="Coding" width="400" src="(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...""
