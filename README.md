@@ -1,8 +1,7 @@
 ![WhatsApp Image 2024-07-15 at 10 37 37 AM](https://github.com/user-attachments/assets/6c98bb54-f9b8-4f25-b83b-8789e6be2f73)
 <h1 align="center">Hi 👋, I'm Zainab Rauf</h1>
 <h3 align="center">A passionate computer science student</h3>
-(img align="right" alt="Coding" width="400" src="(img align="right" alt="Coding" width="400" src="zainabb![zainabb](https://github.com/user-attachments/assets/b96d5db8-593c-4694-9f8b-950e3396b9e9)
-.png"
+(img align="right" alt="Coding" width="400" src="(img align="right" alt="Coding" width="400" src="zainabb.png"
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainabrauf098" alt="zainabrauf098" /></a> </p>
 
