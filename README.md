@@ -1,24 +1,7 @@
-![download](https://github.com/user-attachments/assets/73b6bfbf-e89d-4e70-b4e8-efff0a4039eb)
-## Hi there 👋
-
-<!--
-**Zainabrauf098/Zainabrauf098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...![download](https://github.com/user-attachments/assets/40aee813-c551-4e69-9815-93464dd88c98)
-
-- ⚡ Fun fact: ...
-[![MasterHead](https://www.dreamstime.com/stock-illustration-line-web-concept-computer-science-vector-banner-education-open-path-image79877360)]
+[![MasterHead](https://www.dreamstime.com/stock-illustration-line-web-concept-computer-science-vector-banner-education-open-path-image79877360)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Zainab Rauf</h1>
 <h3 align="center">A passionate computer science student</h3>
-(img align="right" alt="Coding" width="400" src="(img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=+girl+animated+coding+gif&tbm=isch&ved=2ahUKEwjb--GlxqmHAxUaTKQEHZ6SDMoQ2-cCegQIABAA&oq=+girl+animated+coding+gif&gs_lp=EgNpbWciGSBnaXJsIGFuaW1hdGVkIGNvZGluZyBnaWZIyxZQ3wRYwRBwAXgAkAEAmAHKAaABiwmqAQUwLjUuMbgBA8gBAPgBAYoCC2d3cy13aXotaW1nwgIEECMYJ8ICBRAAGIAEwgIGEAAYCBgewgIHEAAYgAQYGIgGAQ&sclient=img&ei=fFmVZtvNMJqYkdUPnqWy0Aw&bih=641&biw=1366&rlz=1C1SQJL_enPK1115PK1118#imgrc=a-YgJefSBCapNM"
+(img align="right" alt="Coding" width="400" src="(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainabrauf098" alt="zainabrauf098" /></a> </p>
 
@@ -48,4 +31,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainabrauf098&show_icons=true&locale=en" alt="zainabrauf098" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zainabrauf098&" alt="zainabrauf098" /></p>
-
