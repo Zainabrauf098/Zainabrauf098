@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->[![MasterHead](https://www.dreamstime.com/stock-illustration-line-web-concept-computer-science-vector-banner-education-open-path-![WhatsApp Image 2024-07-15 at 10 37 37 AM](https://github.com/user-attachments/assets/bb0165b6-6d14-4abe-88d7-d133171c2e61))]
 <h1 align="center">Hi 👋, I'm Zainab Rauf</h1>
 <h3 align="center">A passionate computer science student</h3>
-(img align="right" alt="Coding" width="400" src="(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...""
+(img align="right" alt="Coding" width="400" src="(img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=+girl+animated+coding+gif&tbm=isch&ved=2ahUKEwjb--GlxqmHAxUaTKQEHZ6SDMoQ2-cCegQIABAA&oq=+girl+animated+coding+gif&gs_lp=EgNpbWciGSBnaXJsIGFuaW1hdGVkIGNvZGluZyBnaWZIyxZQ3wRYwRBwAXgAkAEAmAHKAaABiwmqAQUwLjUuMbgBA8gBAPgBAYoCC2d3cy13aXotaW1nwgIEECMYJ8ICBRAAGIAEwgIGEAAYCBgewgIHEAAYgAQYGIgGAQ&sclient=img&ei=fFmVZtvNMJqYkdUPnqWy0Aw&bih=641&biw=1366&rlz=1C1SQJL_enPK1115PK1118#imgrc=a-YgJefSBCapNM"
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainabrauf098" alt="zainabrauf098" /></a> </p>
 
